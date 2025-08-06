@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 餐饮美食类（餐厅排队）行业模板 | 餐饮美食类（美食菜谱）行业模板 | 餐饮美食类（餐饮茶饮）行业模板 | 餐饮美食类（点餐）行业模板 |
 |:---:|:---:|:---:|:---:|
-| ![输入图片说明](ReservationQueue/screenshots/pic_home.jpeg)| ![输入图片说明](Recipes/screenshots/Screenshot_home.jpeg) | ![输入图片说明](TeaDrinkOrders/screenshots/Screenshot_home.png)| ![输入图片说明](CateringOrders/screenshots/Screenshot_order.jpeg) |
+|![输入图片说明](%E9%A4%90%E5%8E%85%E6%8E%92%E9%98%9F%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E7%BE%8E%E9%A3%9F%E8%8F%9C%E8%B0%B1%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) | ![输入图片说明](%E9%A4%90%E9%A5%AE%E8%8C%B6%E9%A5%AE%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E7%82%B9%E9%A4%90%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|
