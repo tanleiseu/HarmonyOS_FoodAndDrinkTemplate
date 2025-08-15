@@ -9,7 +9,7 @@
 </br>
 </br>
 
-该仓库介绍了鸿蒙开发案例（餐饮美食类行业模板），更多模板与组件请进入[鸿蒙生态市场](https://developer.huawei.com/consumer/cn/market/prod-list/4437348dd20f48249540d1b57ef2eff6/categoryL2_202410080002)查看！
+该仓库介绍了鸿蒙开发案例（餐饮美食类行业模板），包括点餐元服务模板、美食菜谱应用模板、餐厅排队元服务模板、餐饮茶饮元服务模板，更多模板与组件请进入[鸿蒙生态市场](https://developer.huawei.com/consumer/cn/market/prod-list/4437348dd20f48249540d1b57ef2eff6/categoryL2_202410080002)查看！
 
 Gitee（官方）：https://gitee.com/seu_duter/agc-template-market-harmonyos-demos
 
